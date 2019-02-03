@@ -9,7 +9,7 @@ const NavBar = () => {
       <div className="container">
         <Link to='/' className="brand-logo">alchemy</Link>
         <SignedInLinks />
-        <SignedOutLinks />
+        {/* <SignedOutLinks /> */}
       </div>
     </nav>
   )
