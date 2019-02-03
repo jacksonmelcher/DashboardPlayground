@@ -34,7 +34,7 @@ export class CreateProject extends Component {
               onChange={this.handleChange}></textarea>
           </div>
           <div className="input-field">
-            <button className="btn pink lighten-1 -depth-0">Create</button>
+            <button className="btn black-text teal lighten-5 -depth-0">Create</button>
           </div>
         </form>
       </div>
